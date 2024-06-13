@@ -45,4 +45,4 @@ jobs:
         with:
           context: ./src
           push: true
-          tags: mario7400/hellodocker-java:latest
+          tags: mario7400/docker-repo:latest
